@@ -1,0 +1,87 @@
+#navbar{
+
+   
+
+}
+
+
+#carousel{
+
+  
+  color: white;
+  opacity:calc(1)
+  
+}
+
+.carousel .card{
+
+   margin-left: 50%;
+   margin-top: 25%;
+   opacity:calc(1)
+}
+
+
+
+
+#footer {
+  
+   width: 100%; 
+   background-color:  #214d67;  
+   padding: 0.5%;
+   
+}
+#footer a{
+
+  color: white;
+
+}
+
+#card{
+
+   
+   margin-left: 15%;
+   margin-right: 15%; 
+   bottom: 10px;
+}
+
+#card2{
+
+   width: 100%;
+   background-color: rgba(70, 74, 87, 0.514);
+   color: white;
+   bottom: white;
+  
+}
+
+#card2 .img{
+
+   width: 100%;
+   height: auto;
+}
+
+#formulario{
+
+   
+   margin-left: 25%;
+   margin-right: 25%;
+}
+
+@media screen and (max-width: 800px){
+
+   .card{
+      width: 100%;
+   }
+   
+   .card2{
+      width: 100%;
+   }
+
+   .formulario{
+      width: 100%;
+   }
+
+   .carousel{
+      width: 100%;
+   }
+}
+
